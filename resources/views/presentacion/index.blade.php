@@ -25,19 +25,17 @@
           <li data-target="#siteslider" data-slide-to="5"></li>
        </ol>
        <div class="carousel-inner" role="listbox">
-          <div class="carousel-item active" style="background-image: url('img/carousel/1.jpg')">
-            <!--<div class="overlay">
-            </div>-->
+          <div class="carousel-item active" style="background-image: url('img/carousel/20.jpg')">
+            <div class="overlay overlay-primary">
+            </div>
           </div>
-          <div class="carousel-item" style="background-image: url('img/carousel/2.jpg')">
+          <div class="carousel-item" style="background-image: url('img/carousel/21.jpg')">
+             <div class="overlay">
+            </div>
           </div>
-          <div class="carousel-item" style="background-image: url('img/carousel/3.jpg')">
-          </div>
-          <div class="carousel-item" style="background-image: url('img/carousel/4.jpg')">
-          </div>
-          <div class="carousel-item" style="background-image: url('img/carousel/5.jpg')">
-          </div>
-          <div class="carousel-item" style="background-image: url('img/carousel/6.jpg')">
+          <div class="carousel-item" style="background-image: url('img/carousel/22.jpg')">
+             <div class="overlay">
+            </div>
           </div>
        </div>
        <a class="carousel-control-prev" href="#siteslider" role="button" data-slide="prev">
@@ -76,10 +74,10 @@
           <div class="col-lg-3">
              <div class="card bg-dark text-white card-overlay">
                 <a href="#">
-                   <img class="card-img" src="img/carousel/1.jpg" alt="Card image">
+                   <img class="card-img" src="img/carousel/9.jpg" alt="Card image">
                    <div class="card-img-overlay">
-                      <h3 class="card-title text-white">Titulo</h3>
-                      <p class="card-text text-white">Descripcion</p>
+                      <h3 class="card-title text-white">Carga y Descarga</h3>
+                      <p class="card-text text-white">Servicio para contenedores de 20, 40 y carga suelta</p>
                    </div>
                 </a>
              </div>
@@ -87,10 +85,9 @@
           <div class="col-lg-3">
              <div class="card bg-dark text-white card-overlay">
                 <a href="#">
-                   <img class="card-img" src="img/carousel/2.jpg" alt="Card image">
+                   <img class="card-img" src="img/carousel/10.jpg" alt="Card image">
                    <div class="card-img-overlay">
-                    <h3 class="card-title text-white">Titulo</h3>
-                    <p class="card-text text-white">Descripcion</p>
+                    <h3 class="card-title text-white">Clasificacion y separacion</h3>
                    </div>
                 </a>
              </div>
@@ -98,10 +95,9 @@
           <div class="col-lg-3">
              <div class="card bg-dark text-white card-overlay">
                 <a href="#">
-                   <img class="card-img" src="img/carousel/3.jpg" alt="Card image">
+                   <img class="card-img" src="img/carousel/11.jpg" alt="Card image">
                    <div class="card-img-overlay">
-                    <h3 class="card-title text-white">Titulo</h3>
-                    <p class="card-text text-white">Descripcion</p>
+                    <h3 class="card-title text-white">Paletizado</h3>
                    </div>
                 </a>
                 .
@@ -110,10 +106,9 @@
           <div class="col-lg-3">
              <div class="card bg-dark text-white card-overlay">
                 <a href="#">
-                   <img class="card-img" src="img/carousel/4.jpg" alt="Card image">
+                   <img class="card-img" src="img/carousel/9.jpg" alt="Card image">
                    <div class="card-img-overlay">
-                    <h3 class="card-title text-white">Titulo</h3>
-                    <p class="card-text text-white">Descripcion</p>
+                    <h3 class="card-title text-white">Servicios especiales</h3>
                    </div>
                 </a>
              </div>
