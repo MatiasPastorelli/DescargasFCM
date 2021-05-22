@@ -20,9 +20,6 @@
           <li data-target="#siteslider" data-slide-to="0" class="active"></li>
           <li data-target="#siteslider" data-slide-to="1"></li>
           <li data-target="#siteslider" data-slide-to="2"></li>
-          <li data-target="#siteslider" data-slide-to="3"></li>
-          <li data-target="#siteslider" data-slide-to="4"></li>
-          <li data-target="#siteslider" data-slide-to="5"></li>
        </ol>
        <div class="carousel-inner" role="listbox">
           <div class="carousel-item active" style="background-image: url('img/carousel/20.jpg')">
